@@ -1,0 +1,15 @@
+{
+  "title": "mdx",
+  "root": true,
+  "pages": [
+    "getting-started",
+    "guides",
+    "concepts",
+    "migrations",
+    "reference",
+    "---UI---",
+    "...ui",
+    "---Runtimes---",
+    "...runtimes"
+  ]
+}
